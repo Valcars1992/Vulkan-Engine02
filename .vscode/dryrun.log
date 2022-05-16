@@ -1,0 +1,5 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make.exe: Entering directory `d:/Programmazione/C++/Game/Vulkan/03'
+g++ -static -std=c++17 -O2 src/*.cpp src/include/Engine/*.cpp -o game.exe -lvulkan-1 -lglfw3 -mwindows
+make.exe: Leaving directory `d:/Programmazione/C++/Game/Vulkan/03'
+ 
