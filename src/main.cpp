@@ -1,11 +1,11 @@
-#include "Engine/vkApplication.hpp"
+#include "Engine/vkWindow.hpp"
 
 #include <iostream>
 #include <stdexcept>
 #include <cstdlib>
 
 int main() {
-    vkApplication vkApp;
+    vkWindow vkApp;
 
     try {
         vkApp.Run();

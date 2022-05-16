@@ -39,6 +39,11 @@
             "cwd": "d:\\Programmazione\\C++\\Game\\Vulkan\\03",
             "binaryPath": "d:\\Programmazione\\C++\\Game\\Vulkan\\03\\game.exe",
             "binaryArgs": []
+        },
+        {
+            "cwd": "d:\\Programmazione\\C++\\Game\\Vulkan\\Vulkan-Engine02",
+            "binaryPath": "d:\\Programmazione\\C++\\Game\\Vulkan\\Vulkan-Engine02\\a.out",
+            "binaryArgs": []
         }
     ]
 }
